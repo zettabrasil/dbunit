@@ -1,4 +1,6 @@
-[This extension is no longer maintained](https://github.com/sebastianbergmann/dbunit/issues/217)
+
+This is a fork of [PHPUnit](https://github.com/sebastianbergmann/dbunit) to use with phpunit 8 and 9
+The original is no longer maintained
 
 # DbUnit
 
